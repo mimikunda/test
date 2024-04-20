@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="111.24177mm"
+   height="81.516617mm"
+   viewBox="0 0 111.24177 81.516617"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.656262,-60.367262)">
+    <ellipse
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:0.99916"
+       id="path390"
+       cx="74.819687"
+       cy="91.150894"
+       rx="30.763426"
+       ry="30.383631" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-opacity:0.99916"
+       id="path444"
+       cx="65.324806"
+       cy="84.694374"
+       rx="5.3171353"
+       ry="3.4181585" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-opacity:0.99916"
+       id="path446"
+       cx="86.213547"
+       cy="85.453964"
+       rx="5.6969309"
+       ry="3.4181585" />
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:0.99916"
+       id="path500"
+       cx="74.819695"
+       cy="116.97698"
+       rx="12.533247"
+       ry="24.306904" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:39.9463px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold Italic';fill:#000000;stroke:#000000;stroke-width:0;stroke-opacity:0.99916"
+       x="198.71219"
+       y="60.823185"
+       id="text664"
+       transform="scale(0.53681077,1.8628538)"><tspan
+         sodipodi:role="line"
+         id="tspan662"
+         style="stroke-width:0"
+         x="198.71219"
+         y="60.823185">OMG!</tspan></text>
+  </g>
+</svg>
