@@ -1,4 +1,4 @@
-# tTest
+# Test
 This is just a test. I made it beacuse i want to make github repository but want to first learn hou to use it. thats it
 
 > [!IMPORTANT]
